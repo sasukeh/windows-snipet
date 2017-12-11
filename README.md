@@ -8,6 +8,9 @@ This repos has useful snipet for windows user.
 Microsoft has perspective not to use DOS window anymore after windows 10 release.
 After that, we should use PowerShell only on windows environment and Azure cloud platform as well.
 
+But Still arive Dos prompt(cmd)...haha...
+https://www.onmsft.com/news/microsoft-explains-why-the-ms-dos-command-prompt-is-not-dying-anytime-soon
+
 I try to implement any snipet in PowerShell script with that reason.
 Please keep your mind this script should execute on latest PowerShell environment.
 
